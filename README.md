@@ -1,7 +1,7 @@
 # MyAnimeList Recommender System
 This project was initially built for the Udacity Machine Learning Engineer Nanodegree.
 
-#### -- Project Status: Active
+#### Project Status: Active
 
 ## Project Intro/Objective
 The purpose of this project is to develop the best suitable collaborative filtering user-based recommender system for the [MyAnimeList](www.myanimelist.net) portal. MyAnimeList is currently the most relevant portal for Anime and Manga content and today it counts with over 4M users interacting and scoring the available shows.
